@@ -49,8 +49,9 @@
 ℹ️ برای اطلاعات بیشتر به [فایل مجوز](LICENSE.md) مراجعه کنید.
 
 
-## دانلود کتاب  
+## 📥 دانلود کتاب  
 [📥 دانلود مستقیم کتاب (PDF)](https://github.com/AlirezaSaberi2/Useful-basketball-sentences/raw/main/Useful-basketball-sentences.pdf)
+[⬇️ دانلود آخرین نسخه از بخش Releases](https://github.com/AlirezaSaberi2/Useful-basketball-sentences/releases/latest)
 
 ## 🌟 حامی بسکتبال ایران باشید!  
 بیایید با هم بسکتبال ایران را به سطح جدیدی برسانیم!  
