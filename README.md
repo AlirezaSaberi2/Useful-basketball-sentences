@@ -52,6 +52,11 @@
 ## 📥 دانلود کتاب  
 [⬇️ دانلود آخرین نسخه از بخش Releases](https://github.com/AlirezaSaberi2/Useful-basketball-sentences/releases/latest)
 
+[⬇️ مشاهده آخرین نسخه کتاب ]([⬇️ دانلود آخرین نسخه از بخش Releases](https://github.com/AlirezaSaberi2/Useful-basketball-sentences/releases/latest)
+)
+
+https://alirezasaberi2.github.io/Useful-basketball-sentences/Useful-basketball-sentences.pdf
+
 ## 🌟 حامی بسکتبال ایران باشید!  
 بیایید با هم بسکتبال ایران را به سطح جدیدی برسانیم!  
 
